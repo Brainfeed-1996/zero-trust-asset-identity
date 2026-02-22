@@ -4,7 +4,8 @@
 [![Security](https://img.shields.io/badge/Security-Zero--Trust-brightgreen.svg)]()
 [![SPIFFE](https://img.shields.io/badge/Standard-SPIFFE-blue.svg)](https://spiffe.io)
 
-Microservice for machine identity issuing SPIFFE-style SVID tokens.
+---
+Part of the [Industrial Portfolio 2026](https://github.com/Brainfeed-1996/industrial-portfolio-2026) ecosystem.
 
 ## Architecture
 - **API**: Go-based REST API for token issuance and validation.
