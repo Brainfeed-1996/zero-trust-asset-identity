@@ -1,4 +1,8 @@
-# Zero Trust Asset Identity
+# 🛡️ Zero Trust Asset Identity
+
+[![Go](https://img.shields.io/badge/Language-Go-00ADD8.svg)](https://golang.org)
+[![Security](https://img.shields.io/badge/Security-Zero--Trust-brightgreen.svg)]()
+[![SPIFFE](https://img.shields.io/badge/Standard-SPIFFE-blue.svg)](https://spiffe.io)
 
 Microservice for machine identity issuing SPIFFE-style SVID tokens.
 
